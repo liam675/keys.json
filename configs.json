@@ -1,1 +1,18 @@
-
+{
+  "x": [
+    {
+      "name": "jedd",
+      "data": {
+        "enabled": true,
+        "keybind": "Middle Mouse",
+        "mode": "Toggle",
+        "fov": 300,
+        "smoothness": 0.3,
+        "smooth_enabled": true,
+        "hitpart": "UpperTorso",
+        "ignoreteam": false,
+        "ignoredead": false
+      }
+    }
+  ]
+}
