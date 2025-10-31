@@ -13,20 +13,6 @@
         "ignoreteam": false,
         "ignoredead": false
       }
-    },
-    {
-      "name": "asd",
-      "data": {
-        "enabled": true,
-        "keybind": "Middle Mouse",
-        "mode": "Hold",
-        "fov": 300,
-        "smoothness": 0.3,
-        "smooth_enabled": true,
-        "hitpart": "UpperTorso",
-        "ignoreteam": false,
-        "ignoredead": false
-      }
     }
   ]
 }
