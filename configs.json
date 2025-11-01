@@ -21,6 +21,28 @@
         "shake_strength": 0.005,
         "use_smoothness": true
       }
+    },
+    {
+      "name": "cpp;",
+      "data": {
+        "enabled": true,
+        "keybind": "Q",
+        "mode": "Hold",
+        "fov": 280,
+        "smooth_x": 3.5,
+        "smooth_y": 3.5,
+        "predict_x": 0.01,
+        "predict_y": 0.01,
+        "deadzone_px": 6,
+        "hitpart": "Head",
+        "ignoreteam": false,
+        "ignoredead": true,
+        "fov_visible": true,
+        "use_prediction": true,
+        "use_shake": false,
+        "shake_strength": 0.005,
+        "use_smoothness": true
+      }
     }
   ]
 }
