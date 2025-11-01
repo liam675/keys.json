@@ -12,14 +12,14 @@
         "predict_x": 0.01,
         "predict_y": 0.01,
         "deadzone_px": 6,
-        "hitpart": "Head",
+        "hitpart": "UpperTorso",
         "ignoreteam": false,
         "ignoredead": true,
         "fov_visible": true,
         "use_prediction": false,
         "use_shake": false,
         "shake_strength": 0.005,
-        "use_smoothness": true
+        "use_smoothness": false
       }
     }
   ]
