@@ -1,18 +1,24 @@
 {
   "x": [
     {
-      "name": "jerold",
-      "data": {
-        "enabled": true,
-        "keybind": "Middle Mouse",
-        "mode": "Hold",
-        "fov": 300,
-        "smoothness": 9.2,
-        "smooth_enabled": true,
-        "hitpart": "UpperTorso",
-        "ignoreteam": false,
-        "ignoredead": false
-      }
+    "enabled": True,
+    "keybind": "Q",
+    "mode": "Hold",
+    "fov": 280,
+    "smooth_x": 3.5,
+    "smooth_y": 3.5,
+    "predict_x": 0.01,
+    "predict_y": 0.01,
+    "deadzone_px": 6,
+    "hitpart": "Head",
+    "ignoreteam": False,
+    "ignoredead": True,
+    "fov_visible": True,
+    "use_prediction": True,
+    "use_shake": False,
+    "shake_strength": 0.005,
+    "use_smoothness": True
+}
     }
   ]
 }
