@@ -1,7 +1,7 @@
 {
   "x": [
     {
-    "enabled": True,
+    "enabled": true,
     "keybind": "Q",
     "mode": "Hold",
     "fov": 280,
@@ -11,13 +11,13 @@
     "predict_y": 0.01,
     "deadzone_px": 6,
     "hitpart": "Head",
-    "ignoreteam": False,
-    "ignoredead": True,
-    "fov_visible": True,
-    "use_prediction": True,
-    "use_shake": False,
+    "ignoreteam": false,
+    "ignoredead": true,
+    "fov_visible": true,
+    "use_prediction": true,
+    "use_shake": false,
     "shake_strength": 0.005,
-    "use_smoothness": True
+    "use_smoothness": true
 }
     }
   ]
