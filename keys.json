@@ -13,6 +13,7 @@
   },
   "x": {
     "password": "x",
-    "hwid": "66115065250323"
+    "hwid": "66115065250323",
+    "autoloadconfig": "so awesome!"
   }
 }
