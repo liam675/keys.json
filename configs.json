@@ -11,7 +11,7 @@
         "smooth_y": 3.5,
         "predict_x": 0.01,
         "predict_y": 0.01,
-        "deadzone_px": 6,
+        "deadzone_px": 12,
         "hitpart": "Head",
         "ignoreteam": false,
         "ignoredead": true,
