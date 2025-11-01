@@ -4,22 +4,24 @@
       "name": "so awesome!",
       "data": {
         "enabled": true,
-        "keybind": "Z",
+        "keybind": "Q",
         "mode": "Toggle",
         "fov": 280,
-        "smooth_x": 3.5,
-        "smooth_y": 3.5,
-        "predict_x": 0.01,
-        "predict_y": 0.01,
-        "deadzone_px": 6,
-        "hitpart": "UpperTorso",
+        "smooth_x": 14,
+        "smooth_y": 14,
+        "predict_x": 0.12,
+        "predict_y": 0.12,
+        "deadzone_px": 15,
+        "hitpart": "Head",
         "ignoreteam": false,
         "ignoredead": true,
         "fov_visible": true,
-        "use_prediction": false,
+        "use_prediction": true,
         "use_shake": false,
-        "shake_strength": 0.005,
-        "use_smoothness": false
+        "shake_strength": 0,
+        "use_smoothness": true,
+        "randompart": true,
+        "stealth_mode": true
       }
     }
   ]
