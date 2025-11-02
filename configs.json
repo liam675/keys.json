@@ -21,7 +21,7 @@
         "shake_strength": 0,
         "use_smoothness": true,
         "randompart": false,
-        "stealth_mode": false
+        "stealth_mode": true
       }
     }
   ]
