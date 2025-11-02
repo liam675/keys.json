@@ -4,7 +4,7 @@
       "name": "so awesome!",
       "data": {
         "enabled": true,
-        "keybind": "Q",
+        "keybind": "Z",
         "mode": "Toggle",
         "fov": 200,
         "smooth_x": 10,
