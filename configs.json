@@ -23,30 +23,6 @@
         "randompart": false,
         "stealth_mode": false
       }
-    },
-    {
-      "name": "iik",
-      "data": {
-        "enabled": true,
-        "keybind": "Q",
-        "mode": "Toggle",
-        "fov": 200,
-        "smooth_x": 10,
-        "smooth_y": 10,
-        "predict_x": 0.1,
-        "predict_y": 0.1,
-        "deadzone_px": 20,
-        "hitpart": "UpperTorso",
-        "ignoreteam": true,
-        "ignoredead": true,
-        "fov_visible": false,
-        "use_prediction": false,
-        "use_shake": false,
-        "shake_strength": 0,
-        "use_smoothness": true,
-        "randompart": false,
-        "stealth_mode": false
-      }
     }
   ]
 }
