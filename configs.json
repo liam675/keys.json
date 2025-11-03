@@ -23,9 +23,11 @@
         "randompart": false,
         "stealth_mode": false
       }
-    },
+    }
+  ],
+  "Icexy": [
     {
-      "name": "semi blatant",
+      "name": "Sjj",
       "data": {
         "enabled": true,
         "keybind": "Z",
