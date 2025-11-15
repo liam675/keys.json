@@ -1,5 +1,12 @@
 {
   "name": "frag",
   "api_key": "PLJR35",
-  "keys": []
+  "keys": [
+    {
+      "key": "key-562MD-LGNE1-CX6EG-G4BDQ",
+      "generated_by": "fragmenting.",
+      "generated_at": "11/15/2025, 08:19 PM",
+      "used": false
+    }
+  ]
 }
