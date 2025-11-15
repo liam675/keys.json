@@ -1,19 +1,21 @@
 {
-  "name": "frag",
-  "api_key": "PLJR35",
-  "keys": [
-    {
-      "key": "key-CG0VH-HALQ5-G82XU-7DDQX",
-      "generated_by": "fragmenting.",
-      "generated_at": "11/15/2025, 08:19 PM",
-      "used": true,
-      "hwid": "A1B2C3D4E5F6789012345678901234567890"
-    },
-    {
-      "key": "key-562MD-LGNE1-CX6EG-G4BDQ",
-      "generated_by": "fragmenting.",
-      "generated_at": "11/15/2025, 08:19 PM",
-      "used": false
-    }
-  ]
+"keys": {
+  1: {
+    "hwid": "C4E2EB98-CD00-44BF-8D2B-52142F520971",
+    "key": "key-562MD-LGNE1-CX6EG-G4BDQ",
+    "generated_at": "11/15/2025, 08:19 PM",
+    "used": true,
+    "generated_by": "fragmenting."
+  },
+  2: {
+    "hwid": "C4E2EB98-CD00-44BF-8D2B-52142F520971",
+    "key": "key-CG0VH-HALQ5-G82XU-7DDQX",
+    "generated_at": "11/15/2025, 08:19 PM",
+    "used": true,
+    "generated_by": "fragmenting.",
+    "index": 2
+  }
+},
+"name": "frag",
+"api_key": "PLJR35"
 }
