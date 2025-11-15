@@ -3,16 +3,18 @@
   "api_key": "PLJR35",
   "keys": [
     {
-      "key": "key-562MD-LGNE1-CX6EG-G4BDQ",
-      "generated_by": "fragmenting.",
-      "generated_at": "11/15/2025, 08:19 PM",
-      "used": false
-    },
-    {
       "key": "key-CG0VH-HALQ5-G82XU-7DDQX",
       "generated_by": "fragmenting.",
       "generated_at": "11/15/2025, 08:19 PM",
-      "used": false
+      "used": true,
+      "hwid": "1A2B3C4D5E6F7G8H9I0J"          <-- THIS LINE GETS ADDED AUTOMATICALLY
+    },
+    {
+      "key": "key-562MD-LGNE1-CX6EG-G4BDQ",
+      "generated_by": "fragmenting.",
+      "generated_at": "11/15/2025, 08:19 PM",
+      "used": false,
+      "hwid": null
     }
   ]
 }
