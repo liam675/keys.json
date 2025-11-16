@@ -9,5 +9,11 @@
     "virtual_server": "frag",
     "api_key": "PLJR35",
     "filename": "frag.json"
+  },
+  "1438408363699601481": {
+    "server_name": "dawg nano",
+    "virtual_server": "nano",
+    "api_key": "MW1ZY9",
+    "filename": "nano.json"
   }
 }
