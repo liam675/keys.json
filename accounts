@@ -16,5 +16,8 @@
   },
   "retard": {
     "password": "test"
+  },
+  "floodware": {
+    "password": "123"
   }
 }
