@@ -19,5 +19,8 @@
   },
   "floodware": {
     "password": "123"
+  },
+  "zzz": {
+    "password": "z"
   }
 }
