@@ -11,6 +11,18 @@
             "TargetMode": false,
             "TargetKeybind": "Middle Mouse",
             "Prediction": 0.1
+        },
+        "legit": {
+            "Enabled": true,
+            "Keybind": "Right Mouse",
+            "Delay": 0.1446000039577484,
+            "MaxStuds": 120,
+            "LimitStuds": false,
+            "DeathCheck": true,
+            "KnifeCheck": false,
+            "TargetMode": false,
+            "TargetKeybind": "Middle Mouse",
+            "Prediction": 0.012000000104308128
         }
     },
     "auto_load": "",
