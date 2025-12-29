@@ -37,6 +37,19 @@
             "TargetMode": false,
             "TargetKeybind": "Middle Mouse",
             "Prediction": 0.012000000104308128
+        },
+        "blatant mid range": {
+            "Enabled": true,
+            "Keybind": "Right Mouse",
+            "Delay": 0.02449999935925007,
+            "MaxStuds": 120,
+            "LimitStuds": false,
+            "DeathCheck": false,
+            "KnifeCheck": false,
+            "TeamCheck": false,
+            "TargetMode": false,
+            "TargetKeybind": "Middle Mouse",
+            "Prediction": 0.02500000037252903
         }
     },
     "auto_load": "zee hood pretty good",
