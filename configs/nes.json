@@ -1,5 +1,19 @@
 {
-    "configs": {},
+    "configs": {
+        "Main": {
+            "Enabled": true,
+            "Keybind": "XButton2",
+            "Delay": 0.04659999907016754,
+            "MaxStuds": 120,
+            "LimitStuds": true,
+            "DeathCheck": true,
+            "KnifeCheck": true,
+            "TeamCheck": true,
+            "TargetMode": false,
+            "TargetKeybind": "Middle Mouse",
+            "Prediction": 0.0
+        }
+    },
     "auto_load": "",
     "executions": 3
 }
