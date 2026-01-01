@@ -1,5 +1,19 @@
 {
-    "configs": {},
+    "configs": {
+        "new": {
+            "Enabled": true,
+            "Keybind": "Right Mouse",
+            "Delay": 0.027000000700354576,
+            "MaxStuds": 120,
+            "LimitStuds": false,
+            "DeathCheck": true,
+            "KnifeCheck": true,
+            "TeamCheck": true,
+            "TargetMode": false,
+            "TargetKeybind": "Middle Mouse",
+            "Prediction": 0.06400000303983688
+        }
+    },
     "auto_load": "",
     "executions": 2
 }
