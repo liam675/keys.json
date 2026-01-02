@@ -12,6 +12,19 @@
             "TargetMode": false,
             "TargetKeybind": "Middle Mouse",
             "Prediction": 0.06400000303983688
+        },
+        "gay": {
+            "Enabled": true,
+            "Keybind": "Right Mouse",
+            "Delay": 0.0,
+            "MaxStuds": 301,
+            "LimitStuds": true,
+            "DeathCheck": true,
+            "KnifeCheck": true,
+            "TeamCheck": true,
+            "TargetMode": false,
+            "TargetKeybind": "Middle Mouse",
+            "Prediction": 0.125
         }
     },
     "auto_load": "",
