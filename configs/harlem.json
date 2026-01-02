@@ -51,6 +51,19 @@
             "TargetMode": false,
             "TargetKeybind": "Middle Mouse",
             "Prediction": 0.026000000536441803
+        },
+        "chat": {
+            "Enabled": true,
+            "Keybind": "Right Mouse",
+            "Delay": 0.022,
+            "MaxStuds": 100,
+            "LimitStuds": false,
+            "DeathCheck": true,
+            "KnifeCheck": true,
+            "TeamCheck": true,
+            "TargetMode": true,
+            "TargetKeybind": "Middle Mouse",
+            "Prediction": 0.075
         }
     },
     "auto_load": "",
