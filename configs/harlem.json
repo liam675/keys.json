@@ -272,6 +272,19 @@
             "TargetMode": false,
             "TargetKeybind": "Middle Mouse",
             "Prediction": 0.06400000303983688
+        },
+        "daddy": {
+            "Enabled": true,
+            "Keybind": "Right Mouse",
+            "Delay": 0.005,
+            "MaxStuds": 120,
+            "LimitStuds": false,
+            "DeathCheck": false,
+            "KnifeCheck": false,
+            "TeamCheck": false,
+            "TargetMode": false,
+            "TargetKeybind": "Middle Mouse",
+            "Prediction": 0.04
         }
     },
     "auto_load": "",
