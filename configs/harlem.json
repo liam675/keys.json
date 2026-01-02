@@ -324,6 +324,19 @@
             "TargetMode": false,
             "TargetKeybind": "Middle Mouse",
             "Prediction": 0.02
+        },
+        "09999": {
+            "Enabled": true,
+            "Keybind": "Right Mouse",
+            "Delay": 0.001,
+            "MaxStuds": 120,
+            "LimitStuds": false,
+            "DeathCheck": false,
+            "KnifeCheck": false,
+            "TeamCheck": false,
+            "TargetMode": false,
+            "TargetKeybind": "Middle Mouse",
+            "Prediction": 0.02
         }
     },
     "auto_load": "",
